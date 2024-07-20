@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=NikhilChaubey18
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NikhilChaubey18)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NikhilChaubey18" alt="GitHub Streak" /></a>
 
 
